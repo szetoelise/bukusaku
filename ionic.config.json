@@ -1,0 +1,8 @@
+{
+  "name": "bukusaku",
+  "app_id": "df293ea9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
